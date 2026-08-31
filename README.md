@@ -8,4 +8,4 @@ K-means clustering is an unsupervised machine learning algorithm used to partiti
 - Support for different datasets.
 - Visual feedback on clustering performance with real-time updates.
 
-![Image Placeholder](image_placeholder.png)
+![image alt](https://github.com/MianMince/K-Clustering-Algorithm-Visualizer-using-Pure-Data/blob/1395b5ef16c35eebb6ba58f0b8422b8b13c54730/Screenshot%202026-08-31%20101232.png)
